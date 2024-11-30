@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nishchal5
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on Development project
 - 📫 How to reach me ...nishchalverma3@gmail.com
 
